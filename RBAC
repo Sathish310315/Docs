@@ -126,7 +126,7 @@ clusters:
 contexts:
 - context:
     cluster: arn:aws:eks:ap-south-1:905418014070:cluster/my-eks-cluster
-    user: arn:aws:eks:ap-south-1:905418014070:cluster/my-eks-cluster
+    user: admin
   name: arn:aws:eks:ap-south-1:905418014070:cluster/my-eks-cluster
 current-context: arn:aws:eks:ap-south-1:905418014070:cluster/my-eks-cluster
 kind: Config
